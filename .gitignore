@@ -1,0 +1,52 @@
+.gradle
+.settings
+/.idea/
+/.vscode/
+/run/
+/build/
+/eclipse/
+.classpath
+.project
+/bin/
+/config/
+/crash-reports/
+/logs/
+options.txt
+/saves/
+usernamecache.json
+banned-ips.json
+banned-players.json
+eula.txt
+ops.json
+server.properties
+servers.dat
+usercache.json
+whitelist.json
+/out/
+*.iml
+*.ipr
+*.iws
+*.bat
+*.DS_Store
+!gradlew.bat
+.factorypath
+addon.local.gradle
+addon.local.gradle.kts
+addon.late.local.gradle
+addon.late.local.gradle.kts
+layout.json
+
+# --- added for public release ---
+# Built artifacts (never commit jars; release them via GitHub Releases instead)
+*.jar
+*.class
+# Logs & crash reports (run/ is already ignored, but be safe at the root too)
+*.log
+/logs/
+crash-reports/
+# Gradle local cache / RFG decompile cache
+/.gradle/
+/rfg-dumps/
+# OS junk
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,26 @@
+{
+    "book": {
+        "category": "neutral",
+        "sounds": [
+            "book"
+        ]
+    },
+    "xload": {
+        "category": "player",
+        "sounds": [
+            "xload"
+        ]
+    },
+    "xshot": {
+        "category": "player",
+        "sounds": [
+            "xshot"
+        ]
+    },
+    "gust": {
+        "category": "player",
+        "sounds": [
+            "gust"
+        ]
+    }
+}

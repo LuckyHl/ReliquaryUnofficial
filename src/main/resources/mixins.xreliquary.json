@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8.7",
+  "package": "xreliquary.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.xreliquary.refmap.json",
+  "mixins": [],
+  "client": [
+    "MixinEntityPlayer",
+    "MixinItemRenderer"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

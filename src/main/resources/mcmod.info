@@ -1,0 +1,21 @@
+{
+	"modListVersion": 2,
+	"modList": [{
+		"modid": "${modId}",
+		"name": "${modName}",
+		"description": "Two words: magical swag. Oh, and a gun.",
+		"version": "${modVersion}",
+		"mcversion": "${minecraftVersion}",
+		"url": "https://github.com/LuckyHl/ReliquaryUnofficial",
+		"updateUrl": "",
+		"authorList": ["x3n0ph0b3", "TheMike"],
+		"credits": "Originally made by x3n0ph0b3, now maintained by TheMike. Unofficial 1.7.10 fork by lkust.",
+		"logoFile": "/assets/xreliquary/textures/logo/xrlogo.png",
+		"screenshots": [],
+		"parent": "",
+		"requiredMods": ["libsandstone@[1.0.0,)", "unimixins@[0.2.1,)"],
+		"dependencies": ["libsandstone@[1.0.0,)", "unimixins@[0.2.1,)"],
+		"dependants": [],
+		"useDependencyInformation": true
+	}]
+}
